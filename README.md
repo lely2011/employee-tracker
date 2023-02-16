@@ -3,12 +3,14 @@
 ## Description
 
 - Motivation is to create a table to neatly organize employee information
-- This project was built for manager to organize staff, job, and additional information
+- This project was built for manager to organize staff, job, and additional information to review whenever needed
 
 
 ## License
 
-Copyright (c) 2022 lely2011
+MIT License
+
+Copyright (c) 2022 Lely Huynh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
